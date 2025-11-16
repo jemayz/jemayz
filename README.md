@@ -30,7 +30,7 @@
       <a href="https://github.com/jemayz/JomJalan">
         <img src="https://github.com/jemayz/JomJalan/blob/main/WelcomePage.JPG"
              alt="JomJalan"
-             style="width:100%; height:400px; object-fit:cover;"/>
+             style="width:100%; height:600px; object-fit:cover;"/>
       </a>
       <br/>
       <b>JomJalan</b><br/>
@@ -43,12 +43,12 @@
       <a href="https://github.com/jemayz/ATLAST">
         <img src="https://github.com/jemayz/ATLAST/blob/main/UI.jpg"
              alt="Multimodal RAG Project"
-             style="width:100%; height:400px; object-fit:cover;"/>
+             style="width:100%; height:600px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Multimodal Chatbot RAG</b><br/>
       <sub>ATLAST is a Multimodal Chatbot that implement RAG which covers three domains which are Medical, Islamic and Insurance.</sub><br/>
-      🔗 <a href="https://github.com/jemayz/ATLAST">Repo</a>
+      🔗 <a href="https://github.com/jemayz/ATLAST">Repository</a>
       <br/>
       <sub>Tags: Flask, Tailwind CSS, Langchain, MultiAgents, GenAI</sub>   
   </tr>
